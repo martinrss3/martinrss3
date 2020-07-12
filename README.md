@@ -1,5 +1,21 @@
-Hi! 👽</br> I am a self taught Full Stack Web Developer  (Front & Back Development) with interests in web applications, API's and agile scrum methodologies.</br></br> Knowledge in Node JS / React / Redux / CSS / Express / Webpack / Testing / ORM / SQL / GIT / Unity3D with C# / Pentesting.</br></br>
-Always looking to make ideas come true. I love to create, design and programming. </br>Music fuels my soul! 🥁
+<h4><strong>Hi!</strong> 👽</h4>
+<p>I am a self taught <i>Full Stack Web Developer</i>  (Front & Back Development) with interests in web applications, API's and agile scrum methodologies.</p>
+<p><strong>Knowledge in: </strong></p>
+<table><ul>
+  <li>Node JS</li>
+  <li>React</li>
+  <li>Redux</li>
+  <li>CSS</li>
+  <li>Express</li>
+  <li>Webpack</li>
+  <li>Testing</li>
+  <li>ORM</li>
+  <li>SQL</li>
+  <li>GIT</li>
+  <li>Unity3D with C#</li>
+  <li>Pentesting</li></ul>
+</table>
+<p>Always looking to make ideas come true. I love to create, design and programming. Music fuels my soul! 🥁</p>
 
 <table><ul><li><a href="https://www.linkedin.com/in/martin-russo/">Linkedin</a></li></ul></table>
 
