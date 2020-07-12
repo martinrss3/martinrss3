@@ -1,4 +1,4 @@
-<h4><strong>Hi!</strong> 👽</h4>
+<h3><strong>Hi!</strong> 👽</h3>
 <p>I am a self taught <i>Full Stack Web Developer</i>  (Front & Back Development) with interests in web applications, API's and agile scrum methodologies.</p>
 <p><strong>Knowledge in: </strong></p>
 <table><ul>
