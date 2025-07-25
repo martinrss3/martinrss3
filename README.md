@@ -1,30 +1,20 @@
-<h3><strong>Hi!</strong> 👽</h3>
-<p>I am a self taught <i>Full Stack Developer</i> highly interested in developing applications and APIs using agile Scrum methodologies.</p>
+## Hey! 👋 I'm Martin
 
-<p><strong>Knowledge in: </strong></p>
-<table>
-  <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Javascript</li>
-    <li>Node.js</li>
-    <li>Express</li>
-    <li>PostgreSQL</li>
-    <li>TypeORM</li>
-    <li>Sequelize</li>
-    <li>GraphQL</li>
-    <li>Apollo</li>
-    <li>React</li>
-    <li>React Native</li>
-    <li>Git</li>
-    <li>Unity3D/C#</li>
-    <li>Web3</li>
-    <li>Cryptocurrency</li>
-    <li>NFT development</li>
-  </ul>
+I'm a creative Software Engineer who enjoys building things that work well *and* look great.
 
-  <br />
+I'm especially interested in developing full-stack applications and APIs, and I’m always exploring new technologies to push projects forward. I love mixing performance with creativity—whether it’s a backend service or a slick animation.
 
-  <a href="https://www.linkedin.com/in/martin-russo/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://codepen.io/martinrss3/" target="_blank"><img src="https://img.shields.io/badge/Codepen-ffffff?style=for-the-badge&logo=codepen&logoColor=black"/></a>
-</table>
+### 🛠️ Tech I work with
+- **Frontend:** React, React Native, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express, PostgreSQL, TypeORM, Sequelize, GraphQL, Apollo  
+- **Creative tools:** Framer Motion, GSAP  
+- **AI integration:** LangChain, LangSmith, LLMs, vector DBs  
+- **Metrics & analytics:** Firebase, Analytics, PostHog  
+- **Other:** Git, Web3, NFT & crypto dev, Unity3D/C#
+
+I'm passionate about continuous learning, building solid user experiences, and collaborating in agile environments.
+
+---
+
+📬 **Let’s connect!**  
+martinrusso1@gmail.com
